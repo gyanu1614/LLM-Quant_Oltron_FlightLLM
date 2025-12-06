@@ -34,12 +34,18 @@
 
 ```
 ├── README.md
+├── docs/
+│   └── QuantGuide.md                   # Technical presentation guide
 ├── presentation docs/
 │   ├── LLMQuant_Paper.docx            # Research paper
 │   └── LLMQuant_Presentation.pptx     # Presentation slides
 └── resources/
     └── Potential_Questions.pdf         # Q&A preparation (31 questions)
 ```
+
+## Documentation
+
+**QuantGuide** (`docs/QuantGuide.md`): Semi-formal technical guide accompanying the presentation. Provides architectural context, performance metrics, and course connections for each presentation section without excessive detail. Designed for GitHub visitors studying hardware-software co-design for LLM quantization.
 
 ## Presentation Outline (19 Slides)
 
