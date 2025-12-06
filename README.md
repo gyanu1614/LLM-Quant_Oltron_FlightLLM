@@ -1,8 +1,9 @@
 # Hardware-Software Co-Design for LLM Quantization
 
-**CECS 528: Advanced Computer Architecture - Term Project**  
-**California State University, Long Beach**  
+**CECS 530: Advanced Computer Architecture - Term Fall 2025**
+**California State University, Long Beach**
 **Author: Gyanendra Pandey**
+**Student ID: 003851257**
 
 ## Research Question
 
@@ -33,16 +34,11 @@
 
 ```
 ├── README.md
-├── docs/
-│   ├── LLM_Quantization_Paper.docx    # 2-page research paper
-│   └── Presenters_Guide.pdf            # Speaker notes
-├── presentation/
-│   ├── LLM_Quantization_Complete.pptx  # 19-slide presentation
-│   └── LLM_Quantization_Complete.pdf   # PDF version
+├── presentation docs/
+│   ├── LLMQuant_Paper.docx            # Research paper
+│   └── LLMQuant_Presentation.pptx     # Presentation slides
 └── resources/
-    ├── Potential_Questions.pdf         # Q&A preparation (31 questions)
-    ├── LLM_Quantization_Quiz.docx      # MCQ quiz (5 questions)
-    └── LLM_Quantization_Quiz_Answers.docx  # Answer key
+    └── Potential_Questions.pdf         # Q&A preparation (31 questions)
 ```
 
 ## Presentation Outline (19 Slides)
@@ -79,4 +75,4 @@
 1. NVIDIA. (2024). A100 Tensor Core GPU Architecture
 2. Oltron: An Adaptive Accelerator for LLM Quantization (DAC 2024)
 3. FlightLLM: Efficient Large Language Model Inference with a Complete Mapping Flow on FPGAs (FPGA 2024)
-4. CipherCore Benchmarks: bitsandbytes vs ONNX Runtime Performance Analysis
+4. Online sources and class content
